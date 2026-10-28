@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108" role="img" aria-label="Void OS">
+  <!-- Same geometry as the launcher's themed icon. Mid-grey so it reads on light and dark alike. -->
+  <g fill="none" stroke="#8A8A8A" stroke-width="9">
+    <circle cx="54" cy="54" r="23"/>
+    <path d="M34,74 L74,34" stroke-linecap="round"/>
+  </g>
+</svg>
