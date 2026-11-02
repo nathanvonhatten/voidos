@@ -25,6 +25,16 @@
 
 <br>
 
+### Demo
+
+<p align="center">
+  <video src="../../releases/latest/download/voidos-demo-mono-23s-reddit.mp4" width="30%" controls></video>
+  <video src="../../releases/latest/download/voidos-v0.2-hub-23s-reddit.mp4" width="30%" controls></video>
+  <video src="../../releases/latest/download/voidos-v0.2-theme-23s-reddit.mp4" width="30%" controls></video>
+</p>
+
+<br>
+
 ### What it is
 
 No feeds, no suggestions, no AI, nothing to scroll.
@@ -38,7 +48,7 @@ The app has **no internet permission**, so it cannot send anything anywhere. No 
 
 ### Install
 
-Android 16 or newer. 2.4 MB.
+Android 16 or newer. 2.5 MB.
 
 1. Open this page in **Chrome on the phone** and download the APK.
 2. Tap it in Chrome's downloads.
@@ -53,9 +63,10 @@ Settings → **Default home app**. Or uninstall, and your previous home screen r
 ### Verifying a download
 
 ```
-shasum -a 256 voidos-0.1.apk
+shasum -a 256 voidos-0.2.apk
 ```
 
+`0.2` — `6cef93f647c695738b0bbc4ed508cc1c63a8ceb83c6270f5fcace5a282a1a641`
 `0.1` — `d7925e5a7ef4756b1be1821f3a0db6ba7e94d9779d114b5089011178010e1e0a`
 
 <br>

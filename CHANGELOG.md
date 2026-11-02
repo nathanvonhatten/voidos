@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.2 — beta
+
+A performance pass, redesigned dialogs, a custom accent color, and a smarter notification panel.
+
+**Performance**
+- Startup work, hot-path allocations and idle wakeups trimmed
+- App icons prewarm right after the index loads (and again if the icon-size slider changes), instead of decoding mid-scroll
+- Icons fade in instead of popping in when they have to be rendered fresh
+
+**Notifications**
+- Group chats stack by member name instead of one line per message
+- Tapping a notification opens its own conversation, not just the app
+- Swipe either direction to dismiss a single notification
+- Panel height is adjustable: Small, Medium or Large
+
+**App list**
+- Long-press menu redrawn with icons and a divider before Uninstall
+- Added App info and Uninstall to the long-press menu
+- Uninstall now asks you to confirm first, before Android's own confirm screen
+- Fixed Uninstall: a missing system permission could stop Android's own confirmation from ever appearing
+- A–Z rail ticks with haptic feedback while dragging between letters, and the jump bubble fades in and out
+
+**Apps**
+- Tags are now removable chips instead of a comma-separated line
+
+**Appearance**
+- Custom accent color: pick any hue, not just the six presets
+- Settings icon redrawn as the Void OS mark
+- New toggle: tint the settings and list icons with the accent color instead of grey
+
 ## 0.1 — first beta
 
 **Home screen**
