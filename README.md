@@ -9,21 +9,10 @@
   <a href="../../releases/latest"><b>Download</b></a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="press/01-home.png" width="30%" alt="Empty black home screen with a row of favorite apps">
-  <img src="press/02-search.png" width="30%" alt="Search results stacked above what you type">
-  <img src="press/05-notifications-panel.png" width="30%" alt="Notifications grouped by app">
-</p>
-
 <p align="center">
   <img src="press/09-home-wallpaper.jpg" width="30%" alt="Void OS on a Titan 2 Elite: favorites row and a notifications pill over a wallpaper">
   <img src="press/10-search-on-device.jpg" width="30%" alt="Typing on the physical keyboard filters apps and settings over the wallpaper">
-  <img src="press/11-notification-pill-on-device.jpg" width="30%" alt="Titan 2 Elite at an angle showing the home screen with a notifications pill">
 </p>
-
-<br>
 
 ### Demo
 
@@ -60,6 +49,23 @@ Android 16 or newer. 2.5 MB.
 ### Going back
 
 Settings → **Default home app**. Or uninstall, and your previous home screen returns.
+
+
+<br>
+
+<p align="center">
+  <img src="press/01-home.png" width="30%" alt="Empty black home screen with a row of favorite apps">
+  <img src="press/02-search.png" width="30%" alt="Search results stacked above what you type">
+  <img src="press/05-notifications-panel.png" width="30%" alt="Notifications grouped by app">
+</p>
+
+<p align="center">
+  <img src="press/09-home-wallpaper.jpg" width="30%" alt="Void OS on a Titan 2 Elite: favorites row and a notifications pill over a wallpaper">
+  <img src="press/10-search-on-device.jpg" width="30%" alt="Typing on the physical keyboard filters apps and settings over the wallpaper">
+  <img src="press/11-notification-pill-on-device.jpg" width="30%" alt="Titan 2 Elite at an angle showing the home screen with a notifications pill">
+</p>
+
+<br>
 
 ### Verifying a download
 
