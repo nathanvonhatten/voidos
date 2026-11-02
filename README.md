@@ -28,10 +28,11 @@
 ### Demo
 
 <p align="center">
-  <video src="../../releases/latest/download/voidos-demo-mono-23s-reddit.mp4" width="30%" controls></video>
-  <video src="../../releases/latest/download/voidos-v0.2-hub-23s-reddit.mp4" width="30%" controls></video>
-  <video src="../../releases/latest/download/voidos-v0.2-theme-23s-reddit.mp4" width="30%" controls></video>
+  <a href="../../releases/latest/download/voidos-demo-mono-23s-reddit.mp4"><img src="press/thumb-demo-mono.jpg" width="30%" alt="Watch: home screen and notifications"></a>
+  <a href="../../releases/latest/download/voidos-v0.2-hub-23s-reddit.mp4"><img src="press/thumb-v0.2-hub.jpg" width="30%" alt="Watch: notifications panel"></a>
+  <a href="../../releases/latest/download/voidos-v0.2-theme-23s-reddit.mp4"><img src="press/thumb-v0.2-theme.jpg" width="30%" alt="Watch: settings and theming"></a>
 </p>
+<p align="center"><sub>Tap a frame to download and play the clip.</sub></p>
 
 <br>
 
