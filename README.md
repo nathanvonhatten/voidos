@@ -61,9 +61,7 @@ Settings → **Default home app**. Or uninstall, and your previous home screen r
 </p>
 
 <p align="center">
-  <img src="press/09-home-wallpaper.jpg" width="30%" alt="Void OS on a Titan 2 Elite: favorites row and a notifications pill over a wallpaper">
-  <img src="press/10-search-on-device.jpg" width="30%" alt="Typing on the physical keyboard filters apps and settings over the wallpaper">
-  <img src="press/11-notification-pill-on-device.jpg" width="30%" alt="Titan 2 Elite at an angle showing the home screen with a notifications pill">
+  <img src="press/11-notification-pill-on-device.jpg" width="45%" alt="Titan 2 Elite at an angle showing the home screen with a notifications pill">
 </p>
 
 <br>
