@@ -1,5 +1,45 @@
 # Changelog
 
+## 0.3 — beta
+
+Keyboard shortcuts for getting around, widget previews and resizing, a smarter favorites default, a custom bold text color, crisper app icon edges, and a swipeable guide to it all.
+
+**Shortcuts guide**
+- A short, swipeable guide to type-to-search, the space bar, swiping to clear a notification, backspace, long-press, hold-and-drag and adding a widget, each with a small animation — shown once after setup on a fresh install, and once again after any update that touches it
+- Reachable any time from Settings > About > Shortcuts guide
+
+**Home screen**
+- Space bar opens and closes the notifications panel, same as tapping the pill
+
+**Search**
+- Backspace on an empty search box now returns to the home screen
+
+**App list**
+- Backspace now returns to the home screen, same as the list button
+
+**Settings**
+- Backspace now goes back a page, same as the arrow (typing in a search box still just deletes)
+
+**Widget**
+- Add a widget now shows a preview image and a Small/Medium/Large size estimate for each one
+- Resizable widgets can be resized: hold the widget, Resize widget, drag, Done
+
+**Favorites**
+- First run (and Reset) now starts with fewer favorites on a narrower screen, instead of always trying for 7
+
+**Appearance**
+- The "Dark text" toggle is now a Text section: a full color picker (hue, saturation, lightness, or a hex code, with its own Reset color) plus a Bold text toggle, for search results, the app list and anything else drawn straight on the wallpaper
+- Fixed: the top search result ignored the chosen text color; it now matches the rest of the list
+- Default font changed to Roboto, now bundled like the other three fonts instead of whatever the phone's own default happens to be
+
+**Notifications**
+- New color pickers for the sender, message and app name in the notification panel
+- The "Notifications" label on the home screen pill now follows the custom text color too
+
+**App icons**
+- Corners and the hairline outline are now baked into each icon with a real anti-aliased edge, instead of relying on the system's own rounding, which was showing jagged, stair-stepped corners on this screen
+- Screen background is a near-black instead of pure black, which softens the glow some screens show around bright, saturated icons sitting right against true black
+
 ## 0.2 — beta
 
 A performance pass, redesigned dialogs, a custom accent color, and a smarter notification panel.
