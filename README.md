@@ -6,7 +6,7 @@
 
 <p align="center">
   A minimal home screen for keyboard phones.<br>
-  <a href="../../releases/latest"><b>Download</b></a>
+  <a href="https://voidos.dev/"><b>voidos.dev</b></a> &nbsp;·&nbsp; <a href="../../releases/latest"><b>Download</b></a>
 </p>
 
 <p align="center">
