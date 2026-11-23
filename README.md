@@ -72,7 +72,7 @@ Settings → **Default home app**. Or uninstall, and your previous home screen r
 shasum -a 256 voidos-0.4.apk
 ```
 
-`0.4` — `41cdffaa82f6db51d4ea9f4e6714fbd64c9fe5d48574c1de28e6970b784fc9f5`
+`0.4` — `34e3aa99268c411d56a221592344800c421d7b2bf211c8ceb78b99a217c29abc`
 `0.3` — `58494eed7ac2053b00be129d8ffed3fd6ebb6cb05bc67847774746afc64a889c`
 `0.2` — `6cef93f647c695738b0bbc4ed508cc1c63a8ceb83c6270f5fcace5a282a1a641`
 `0.1` — `d7925e5a7ef4756b1be1821f3a0db6ba7e94d9779d114b5089011178010e1e0a`
