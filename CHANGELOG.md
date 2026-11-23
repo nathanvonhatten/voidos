@@ -1,5 +1,40 @@
 # Changelog
 
+## 0.4 — beta
+
+An on-screen keyboard with swipe typing for phones without a hardware one, a notifications panel that can stay open, scrolling search results with highlighted matches and tags, and favorites that always stay one size.
+
+**Keyboard**
+- Phones without a hardware keyboard now get an on-screen keyboard on the home screen, in search and in the app list; phones with a physical keyboard are unchanged
+- New Settings > Keyboard page (touch phones only): Flat (quiet dark keys), Hardware keys (numbers and symbols printed on the keys, typed with alt) or your phone's own System keyboard
+- Swipe typing: slide across the letters to spell an app's name, rename or tag. On by default, with a toggle in Settings > Keyboard
+- Swipe typing works right from the edge of the screen: a word that starts on q, a, p or l no longer sets off the phone's Back gesture
+- Key preview above your finger, optional vibration on each keypress, and hold backspace to delete quickly
+- On the Flat keyboard, the Go key reads Go or Done to match the box you're typing in
+- Types into every text box in the launcher, including rename, tags and the settings search fields; in Settings it only appears while you're typing in a box
+- Back, a swipe down on the keys or a straight stroke down off the letters hides the keyboard; a tap brings it back
+- Space opens and closes the notifications panel, same as the space bar on a hardware keyboard
+- With the System keyboard, it stays up as you move between the home screen and the app list instead of closing and reopening
+
+**Notifications**
+- New "Always open" option under Settings > Notifications > Show on home screen: the panel stays open on the home screen instead of hiding behind the pill
+- "Show when empty" keeps the open panel up even with no notifications, with a quiet "Nothing new" line
+
+**Search**
+- Results scroll: as many as fit on screen show, best match nearest the search box, the rest a scroll up. New Settings > Search settings > Results shown: All (the new default, up from 5) or up to 5, 10 or 20
+- Tags that match what you type are highlighted in your accent color too, like a matching name, and shown in place of the app's first tag
+- Letters that match what you type are highlighted in your accent color
+- Fixed: with a dark text color, the best search result sat on a dark highlight and couldn't be read; it now gets a light one
+
+**Favorites**
+- Fixed: with several favorites or a large size, some favorites shrank while others stayed big. They now always stay one size, and the Favorites slider stops at the largest size where they all fit
+
+**Settings**
+- Settings that only work on touch-screen phones say so on phones with a hardware keyboard, instead of being hidden
+
+**Guides**
+- The setup and shortcuts guides now match your phone: on touch-screen phones they talk about the on-screen keyboard, with a new page on putting it away and bringing it back
+
 ## 0.3 — beta
 
 Keyboard shortcuts for getting around, widget previews and resizing, a smarter favorites default, a custom bold text color, crisper app icon edges, and a swipeable guide to it all.
